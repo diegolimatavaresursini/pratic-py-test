@@ -1,5 +1,5 @@
-anamnesis test
-name = input ('what is your name?')
-age = input (' how old are you?')
-weight = input (' how much do you weight?')
-print ( 'hello,',name,', your age is', age ,'years old',' and your weigth is',weight,'kg')
+#anamnesis test
+name = input('what is your name?')
+age = input('how old are you?')
+weight = input('how much do you weight?')
+print('Hello,',name,', your age is', age ,'years old',' and your weigth is',weight,'kg. ')
